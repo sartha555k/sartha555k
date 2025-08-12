@@ -1,16 +1,30 @@
-## Hi there 👋
+// 👨‍💻 Passionate Full-Stack Developer | Building impactful solutions
+// 👋 Hi there! I'm Sarthak Patel 🚀
 
-<!--
-**sartha555k/sartha555k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const sarthak = {
+  name: "Sarthak Patel",
+  skills: [
+    "💻 C",
+    "💻 C++",
+    "⚡ JavaScript",
+    "⚛️ React",
+    "🟩 Node.js",
+    "🔗 Next.js",
+    "🖥️ HTML",
+    "🎨 CSS",
+    "🌈 Tailwind CSS",
+    "🧠 Data Structures & Algorithms",
+    "▲ Vercel",
+    "☁️ AWS",
+    "📐 System Design",
+    "🧩 OOPs"
+  ],
+  github: "🐙 https://github.com/sartha555k",
+  linkedin: "🔗 https://www.linkedin.com/in/sarthak-patel-14938322a/"
+};
 
-Here are some ideas to get you started:
+// 🤝 Let's connect and build something awesome!
+console.log(`Find me on GitHub: ${sarthak.github}`);
+console.log(`Connect on LinkedIn: ${sarthak.linkedin}`);
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+export default sarthak;
