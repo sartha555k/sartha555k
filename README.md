@@ -1,30 +1,37 @@
-// 👨‍💻 Passionate Full-Stack Developer | Building impactful solutions
-// 👋 Hi there! I'm Sarthak Patel 🚀
+```javascript
+const softwareEngineering = "💻 Building scalable apps | 📚 Passionate about developing & learning new skills";
 
 const sarthak = {
-  name: "Sarthak Patel",
+  name: "👨‍💻 Sarthak Patel",
+  about: softwareEngineering,
   skills: [
-    "💻 C",
-    "💻 C++",
-    "⚡ JavaScript",
-    "⚛️ React",
-    "🟩 Node.js",
-    "🔗 Next.js",
-    "🖥️ HTML",
+    "⚡ C",
+    "⚡ C++",
+    "🌐 JavaScript",
+    "⚛ React",
+    "🖥 Node.js",
+    "⏭ Next.js",
+    "📝 HTML",
     "🎨 CSS",
-    "🌈 Tailwind CSS",
-    "🧠 Data Structures & Algorithms",
-    "▲ Vercel",
-    "☁️ AWS",
-    "📐 System Design",
-    "🧩 OOPs"
+    "💨 TailwindCSS",
+    "📊 Data Structures & Algorithms",
+    "☁ Vercel",
+    "☁ AWS",
+    "🏗 System Design",
+    "🧠 OOPs",
+    "🐙 Git",
+    "🛠 API Development",
+    "🚀 Deployment"
   ],
-  github: "🐙 https://github.com/sartha555k",
-  linkedin: "🔗 https://www.linkedin.com/in/sarthak-patel-14938322a/"
+  github: "📂 https://github.com/sartha555k",
+  linkedin: "💼 https://www.linkedin.com/in/sarthak-patel-14938322a/"
 };
 
-// 🤝 Let's connect and build something awesome!
-console.log(`Find me on GitHub: ${sarthak.github}`);
-console.log(`Connect on LinkedIn: ${sarthak.linkedin}`);
+// 🚀 Let's connect and create something awesome!
+console.log(`💬 About Me: ${sarthak.about}`);
+console.log(`🐙 GitHub: ${sarthak.github}`);
+console.log(`💼 LinkedIn: ${sarthak.linkedin}`);
 
 export default sarthak;
+
+```
