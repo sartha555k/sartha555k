@@ -7,6 +7,8 @@ const sarthak = {
   skills: [
     "⚡ C",
     "⚡ C++",
+    "🐍 Python",
+    "🏃‍♀️ FastAPI"
     "🌐 JavaScript",
     "⚛ React",
     "🖥 Node.js",
