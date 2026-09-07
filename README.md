@@ -123,8 +123,13 @@ Comfortable: everything above. Learning: PostgreSQL internals, Go. Will fight yo
 ## Numbers that aren't on the résumé
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sartha555k&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=ff3b1f&icon_color=f5b942&text_color=9a9ba3&ring_color=ff3b1f&hide_title=true&count_private=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sartha555k&layout=compact&hide_border=true&bg_color=0a0a0b&title_color=ff3b1f&text_color=9a9ba3&langs_count=6&hide=html,css" height="165" alt="languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sartha555k&theme=github_dark" width="100%" alt="profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sartha555k&theme=github_dark" width="32%" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sartha555k&theme=github_dark" width="32%" alt="most committed language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sartha555k&theme=github_dark&utcOffset=5.5" width="32%" alt="productive time" />
 </p>
 
 <p align="center">
@@ -132,7 +137,7 @@ Comfortable: everything above. Learning: PostgreSQL internals, Go. Will fight yo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sartha555k&bg_color=0a0a0b&color=9a9ba3&line=ff3b1f&point=f5b942&area=true&area_color=ff3b1f&hide_border=true&hide_title=true" width="100%" alt="activity" />
+  <img src="https://ghchart.rshah.org/ff3b1f/sartha555k" width="100%" alt="contribution chart" />
 </p>
 
 <p align="center">
