@@ -139,14 +139,7 @@ Comfortable: everything above. Learning: PostgreSQL internals, Go. Will fight yo
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sartha555k/sartha555k/output/pacman-contribution-graph-dark.svg" />
-    <img src="https://raw.githubusercontent.com/sartha555k/sartha555k/output/pacman-contribution-graph.svg" width="100%" alt="pac-man eating the contribution graph" />
-  </picture>
-</p>
-
-<p align="center">
-  <sub>Every image in this section is rendered once a day by <a href="https://github.com/sartha555k/sartha555k/blob/main/.github/workflows/profile-assets.yml">a workflow in this repo</a>, not fetched from a third-party service. The status card is <a href="https://github.com/sartha555k/sartha555k/blob/main/status-card/render.mjs">120 lines of satori</a> against the GitHub GraphQL API.</sub>
+  <sub>The status card is rendered once a day by <a href="https://github.com/sartha555k/sartha555k/blob/main/.github/workflows/profile-assets.yml">a workflow in this repo</a> from the GitHub GraphQL API, not fetched from a third-party service. Source: <a href="https://github.com/sartha555k/sartha555k/blob/main/status-card/render.mjs">status-card/render.mjs</a>.</sub>
 </p>
 
 <br />
