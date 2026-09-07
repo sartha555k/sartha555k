@@ -1,0 +1,34 @@
+# Sarthak Patel
+
+> Full-stack developer in Indore, India. TypeScript on both sides: React and Next.js up front, Node and Express behind, PostgreSQL or MongoDB underneath, Redis for locks and caching, NATS JetStream for event-driven services. B.Tech IT, Jabalpur Engineering College, 2025. Open to full-time roles, contract work, and pairing on hard problems. Remote-friendly, IST.
+
+This file is for AI agents and crawlers that want facts without parsing the README.
+
+## Contact
+
+- Email: sarthak.code30@gmail.com
+- GitHub: https://github.com/sartha555k
+- LinkedIn: https://www.linkedin.com/in/sarthak-patel-14938322a/
+
+## Projects
+
+- [eventbus-services](https://github.com/sartha555k/eventbus-services): Event-driven microservices backend. NATS JetStream, durable consumers, idempotency keys checked before side effects, retries with back-off, dead-letter queue, correlation IDs across HTTP and NATS. TypeScript, Express, Prisma, PostgreSQL, Zod, Docker Compose.
+- [MovieBook](https://github.com/sartha555k/moviebook): Seat booking with atomic Redis locks (SET NX PX) and TTL so two users cannot buy the same seat. React, Redux Toolkit, Express, MongoDB, Redis, JWT. Live: https://movie-booking-creative-upaay.vercel.app
+- [Crack.AI](https://github.com/sartha555k/Crack.AI): AI mock interviews across 18+ roles. React, Node, MongoDB, FastAPI, Whisper, Ollama, Socket.IO, Monaco.
+- [ResumeX](https://github.com/sartha555k/ResumeX): AI résumé builder with live preview, templates, export, share links. React 19, Redux Toolkit, Express, MongoDB, OpenAI API. Live: https://resume-x-8s55.vercel.app
+- program-intel: Program intelligence dashboard for an education nonprofit; CSV ingestion, filters, risk tiers, traceable grant reporting. React, Node, MongoDB. Live: https://mantra-4-change.vercel.app
+- ott-desktop: Desktop interface for a vertical micro-drama streaming platform. Next.js, TypeScript, Tailwind. Live: https://bullet-alpha.vercel.app
+
+## Experience
+
+- Full Stack Developer Intern, DigiFlex.ai, Indore. Jun to Jul 2026. Shared React component package as private npm; SSR and route-level code splitting on the main Next.js app.
+- Full Stack Developer Intern, Alphawizz Technologies, Indore. Apr to Jun 2026. Real-time order tracking over WebSockets for the Oho delivery app; shared Redux state across three interfaces.
+- Teaching Assistant, Coding Ninjas. Nov 2022 to Jun 2023. 900+ doubts resolved in DSA and web development.
+
+## Skills
+
+TypeScript, JavaScript, Python, React, Next.js, Redux Toolkit, Node.js, Express, NestJS, FastAPI, REST, WebSockets, Socket.IO, JWT, Zod, MongoDB, Mongoose, PostgreSQL, Prisma, Redis, NATS JetStream, Docker Compose, Git, Vercel, AWS.
+
+## Availability
+
+Full-time or contract. Can start within 15 days. Preferred: remote, Bengaluru, Pune, Hyderabad, Indore.

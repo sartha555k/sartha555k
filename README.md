@@ -123,7 +123,9 @@ Comfortable: everything above. Learning: PostgreSQL internals, Go. Will fight yo
 ## Numbers that aren't on the résumé
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sartha555k&theme=github_dark" width="100%" alt="profile details" />
+  <a href="https://github.com/sartha555k?tab=repositories">
+    <img src="https://raw.githubusercontent.com/sartha555k/sartha555k/output/status.svg" width="100%" alt="live status card: contributions, streak, languages, latest commits" />
+  </a>
 </p>
 
 <p align="center">
@@ -137,11 +139,14 @@ Comfortable: everything above. Learning: PostgreSQL internals, Go. Will fight yo
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ff3b1f/sartha555k" width="100%" alt="contribution chart" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sartha555k/sartha555k/output/pacman-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/sartha555k/sartha555k/output/pacman-contribution-graph.svg" width="100%" alt="pac-man eating the contribution graph" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sartha555k/sartha555k/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <sub>Every image in this section is rendered once a day by <a href="https://github.com/sartha555k/sartha555k/blob/main/.github/workflows/profile-assets.yml">a workflow in this repo</a>, not fetched from a third-party service. The status card is <a href="https://github.com/sartha555k/sartha555k/blob/main/status-card/render.mjs">120 lines of satori</a> against the GitHub GraphQL API.</sub>
 </p>
 
 <br />
@@ -149,7 +154,8 @@ Comfortable: everything above. Learning: PostgreSQL internals, Go. Will fight yo
 <p align="center">
   <sub>
     <code>sarthak.code30@gmail.com</code> · Indore, IN · IST ·
-    <a href="https://www.linkedin.com/in/sarthak-patel-14938322a/">linkedin</a>
+    <a href="https://www.linkedin.com/in/sarthak-patel-14938322a/">linkedin</a> ·
+    <a href="./llms.txt">llms.txt</a> for the agents reading this
   </sub>
   <br />
   <sub>Building things nobody asked for. <b>Yet.</b></sub>
